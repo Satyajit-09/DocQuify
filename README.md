@@ -1,21 +1,21 @@
-# 🚀 DocQuify
+# DocQuify
 
 **DocQuify** is a powerful AI-powered platform that helps users extract relevant information from research papers and technical documentation by asking natural language questions. Upload PDFs and ask context-based queries to get quick, accurate answers — without reading the entire document.
 
 ---
 
-## ✨ Features
+## Features
 
-- 📄 **PDF Upload**: Upload research papers or technical docs for smart processing.
-- ❓ **Context-Based Question Answering**: Ask questions and get answers directly from the uploaded content.
-- 🔍 **Stay Updated**: Understand new tech trends by uploading the latest whitepapers or articles.
-- 🔐 **Google Login Integration**: Secure, seamless sign-in using Clerk’s Google Auth.
-- ☁️ **AWS S3 Storage**: Store and access documents reliably.
-- 🧠 **AI + Vector Search**: Uses OpenAI and Pinecone for semantic search and precise answers.
+- **PDF Upload**: Upload research papers or technical docs for smart processing.
+- **Context-Based Question Answering**: Ask questions and get answers directly from the uploaded content.
+- **Stay Updated**: Understand new tech trends by uploading the latest whitepapers or articles.
+- **Google Login Integration**: Secure, seamless sign-in using Clerk’s Google Auth.
+- **AWS S3 Storage**: Store and access documents reliably.
+- **AI + Vector Search**: Uses OpenAI and Pinecone for semantic search and precise answers.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer         | Tech Used                         |
 |---------------|-----------------------------------|
@@ -26,7 +26,7 @@
 | AI & Search   | OpenAI API, Pinecone Vector DB    |
 
 ---
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -59,7 +59,7 @@ bash
 Copy
 Edit
 npm run dev
-🤝 Contributing
+Contributing
 We welcome contributions! To contribute:
 
 Fork the repository
